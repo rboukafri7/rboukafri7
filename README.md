@@ -1,4 +1,4 @@
-# Hello! My name is Redouan Boukafri
+# Hey, I am Redu! :grin:
 I am from Barcelona and I have studied *Mathematics* and *Physics*, and currently I am doing the *MSc in Statistics* at Imperial ^^. 
 
 Outside of Statistics I have different hobbies:
