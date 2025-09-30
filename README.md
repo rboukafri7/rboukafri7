@@ -6,3 +6,5 @@ Outside of [Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-ta
 - Listening to _music_. You can follow me on [Spotify](https://open.spotify.com/user/m73proio7oqnekpi8y9jfz2hz?si=d6f765d8a7524875)
 - Doing _calisthenics_ and going to the _gym_.
 
+------
+last updated: 2024-09-31
