@@ -1,7 +1,7 @@
-# Data Science Workshop 1
-Hello! My name is Redouan Boukafri I am from Barcelona and I have studied Mathematics and Physics.
+# Hello! My name is Redouan Boukafri
+I am from Barcelona and I have studied *Mathematics* and *Physics*, and currently I am doing the *MSc in Statistics* at Imperial ^^. 
 
-- My favourite subject of the degree was _Topology_.
-- My least favourite subject was _Numerical Methods_.
-
-Outside of Statistics I like doing calisthenics and watching films. You can check my [Letterbox](https://letterboxd.com/redu_1/).
+Outside of Statistics I have different hobbies:
+- Watching films. You can check my [Letterbox](https://letterboxd.com/redu_1/).
+- Listening to music. You can follow me on [Spotify](https://open.spotify.com/user/m73proio7oqnekpi8y9jfz2hz?si=d6f765d8a7524875)
+- Doing calisthenics/gym.
